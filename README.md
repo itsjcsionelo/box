@@ -9,7 +9,7 @@
  </tr>
  <tr>
     <td>✔ Subgrid</td>
-    <td>✔ Animations/Transitions</td>
+    <td>✔ Clamp</td>
  </tr>
  <tr>
     <td>✔ Fully Responsive</td>
