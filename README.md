@@ -1,19 +1,15 @@
-# Layout Practice: Testimonials
+# Layout Practice: The Box
 
-#### A simple testimonials front-end design where I practice mobile-first approach, consists:
+#### A simple asymmetric design where I practice mobile-first approach, consists:
 
 <table border="0">
  <tr>
-    <td>✔ 7-1 CSS Architecture</td>
+    <td>✔ Grid</td>
     <td>✔ Flexbox</td>
  </tr>
  <tr>
-    <td>✔ BEM Methodology</td>
+    <td>✔ Subgrid</td>
     <td>✔ Animations/Transitions</td>
- </tr>
- <tr>
-    <td>✔ SASS</td>
-    <td>✔ Fluid Typography</td>
  </tr>
  <tr>
     <td>✔ Fully Responsive</td>
