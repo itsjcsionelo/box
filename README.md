@@ -1,6 +1,6 @@
 # Layout Practice: The Box
 
-#### A simple asymmetric design where I practice mobile-first approach, consists:
+#### A simple asymmetric design where I practice mobile-first approach, consists: 
 
 <table border="0">
  <tr>
