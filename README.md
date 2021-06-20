@@ -16,3 +16,5 @@
     <td>🚫 Code Redundancy</td>
  </tr>
 </table>
+
+Preview: thebx.netlify.app
