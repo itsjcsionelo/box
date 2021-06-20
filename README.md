@@ -17,4 +17,4 @@
  </tr>
 </table>
 
-#### Preview: [The Box](thebx.netlify.app)
+#### Preview: [The Box](https://thebx.netlify.app/)
